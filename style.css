@@ -65,7 +65,7 @@ div{
     transform: translateY(4px);
 }
 
-@media screen and (max-width:412px) {
+@media screen and (max-width:512px) {
    h1{
     margin-left:40%;
     margin-top: 40%;
